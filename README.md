@@ -1,23 +1,36 @@
-# Machine Learning
 
-This repository contains my Machine Learning projects and experiments using Python.
+# Machine Learning Projects
+
+## About
+This repository contains Machine Learning projects implemented using Python and Scikit-Learn.
+
+## Topics Covered
+- Linear Regression
+- Multiple Linear Regression
+- Polynomial Regression
+- Overfitting, Underfitting and Good Fit Analysis
+
+## Libraries Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-Learn
 
 ## Projects
-- Linear Regression
-- Polynomial Regression
 
-## Tools & Libraries
-- Python
-- NumPy
-- Pandas
-- Matplotlib
-- Scikit-learn
+### Linear Regression
+Predicting values using a linear relationship between variables.
 
-## Future Work
-- Decision Trees
-- Random Forest
-- Logistic Regression
-- Clustering
-- Deep Learning
+### Multiple Linear Regression
+Predicting outcomes using multiple independent variables.
 
-This repository will be updated regularly as I learn and build more Machine Learning projects.
+### Polynomial Regression
+Capturing non-linear relationships using polynomial features.
+
+### Model Evaluation
+Analysis of:
+- Good Fit
+- Underfitting
+- Overfitting
+### Future work will get updated soon
