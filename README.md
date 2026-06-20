@@ -33,4 +33,18 @@ Analysis of:
 - Good Fit
 - Underfitting
 - Overfitting
+
+  ## Model Graphs
+
+### Actual vs Predicted
+
+![Actual vs Predicted](screenshots/graph1.png)
+
+### Residual Plot
+
+![Residual Plot](screenshots/graph2.png)
+
+### Polynomial Regression Curve
+
+![Polynomial Regression Curve](screenshots/graph3.png)
 ### Future work will get updated soon
