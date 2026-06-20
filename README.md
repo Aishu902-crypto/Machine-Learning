@@ -34,17 +34,12 @@ Analysis of:
 - Underfitting
 - Overfitting
 
-  ## Model Graphs
+ ## 📊 Key Results
 
-### Actual vs Predicted
-
-![Actual vs Predicted](screenshots/graph1.png)
-
-### Residual Plot
-
-![Residual Plot](screenshots/graph2.png)
+### Actual vs Predicted Salary
+![Actual vs Predicted Salary](Position-Actual VS predicted graph.png)
 
 ### Polynomial Regression Curve
+![Polynomial Regression Curve](Position-Level VS Sal regression graph.png)
 
-![Polynomial Regression Curve](screenshots/graph3.png)
 ### Future work will get updated soon
