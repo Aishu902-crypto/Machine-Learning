@@ -36,10 +36,8 @@ Analysis of:
 
  ## 📊 Key Results
 
-### Actual vs Predicted Salary
-![Actual vs Predicted Salary](Position-Actual VS predicted graph.png)
+![Actual vs Predicted Salary](screenshots/actual_vs_predicted.png)
 
-### Polynomial Regression Curve
-![Polynomial Regression Curve](Position-Level VS Sal regression graph.png)
+![Polynomial Regression Curve](screenshots/polynomial_regression_curve.png)
 
 ### Future work will get updated soon
