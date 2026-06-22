@@ -33,4 +33,11 @@ Analysis of:
 - Good Fit
 - Underfitting
 - Overfitting
+
+ ## 📊 Key Results
+
+![Actual vs Predicted Salary](screenshots/actual_vs_predicted.png)
+
+![Polynomial Regression Curve](screenshots/polynomial_regression_curve.png)
+
 ### Future work will get updated soon
